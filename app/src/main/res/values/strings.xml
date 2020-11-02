@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="welcome">OAPS</string>
+    <string name="register_now">Register now</string>
+    <string name="login">login</string>
+    <string name="Not_Registered">Not Registered?</string>
+    <string name="email_text">Enter Your Email</string>
+    <string name="password">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="name">Enter Your Name</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="category">Select the Type of Product</string>
+    <string name="beans">beans</string>
+    <string name="rice">rice</string>
+    <string name="Wheat">Wheat</string>
+    <string name="maize">Maize</string>
+    <string name="unit">Unit</string>
+    <string name="product_name">Product Name</string>
+    <string name="recently_viewed">Recently Viewed Items</string>
+    <string name="select_category">Select a Category</string>
+    <string name="customer">Dear Customer,</string>
+    <string name="get">Find the crops you need here</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="discounted">Top discounted Products</string>
+    <string name="info">Fill Your Details</string>
+    <string name="fresh">Find Fresh crops here</string>
+    <string name="attempts">Number of incorrect attempts</string>
+</resources>

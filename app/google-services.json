@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049029652947",
+    "firebase_url": "https://mylogin-84d92.firebaseio.com",
+    "project_id": "mylogin-84d92",
+    "storage_bucket": "mylogin-84d92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049029652947:android:30751d29bd190d310b3f26",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049029652947-541kedjqmjpu2cp72618hrrkgf21hr58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmGzjPOfrQgBUxdrwSuVer2vOHWyYAU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049029652947-541kedjqmjpu2cp72618hrrkgf21hr58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
